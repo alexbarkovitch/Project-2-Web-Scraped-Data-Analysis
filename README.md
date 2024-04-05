@@ -1,1 +1,2 @@
 # Project-2-Web-Scraped-Data-Analysis
+This is a repository by Alex Barkovitch containing the files for CMP-262 project 2, part 2. I scraped data from the website hockey-reference.com to get game stats for the New Jersey Devils. I used the link https://www.hockey-reference.com/teams/NJD/ for the web scraping, and jupyter notebook for the program. I used the pages hyperlinked to the player names to pull data into a dataframe for analysis and visualization. I will ask questions and visualize some of the answers regarding players, positions, salary, and stats.
